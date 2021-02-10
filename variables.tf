@@ -6,11 +6,11 @@
 # prompted to enter it (or define it via config file or command line flags.)
 
 variable "prefix" {
-  description = "This prefix will be included in the name of most resources."
+  description = "rahuldondeti"
 }
 
 variable "region" {
-  description = "The region where the resources are created."
+  description = "us-east-1"
   default     = "us-east-1"
 }
 
